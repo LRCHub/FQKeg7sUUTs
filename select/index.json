@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "Rock Bottom",
+  "base_artist": "Hailee Steinfeld",
+  "createdAt": "2026-03-22T07:28:12.829209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Rock Bottom Of Your Heart",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/01_Hard_Rock_Bottom_Of_Your_Heart_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hard Rock Bottom of Your Heart (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/02_Hard_Rock_Bottom_of_Your_Heart_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Rock_Bottom_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/04_Rock_Bottom_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/05_Rock_Bottom_Hailee_Steinfeld.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock Bottom Riser",
+      "artist": "Bill Callahan",
+      "has_synced": true,
+      "path": "select/06_Rock_Bottom_Riser_Bill_Callahan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "House of Lords",
+      "has_synced": false,
+      "path": "select/07_Rock_Bottom_House_of_Lords.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "UFO",
+      "has_synced": false,
+      "path": "select/08_Rock_Bottom_UFO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock Bottom (feat. Bun B)",
+      "artist": "Freddie Gibbs",
+      "has_synced": false,
+      "path": "select/09_Rock_Bottom_(feat._Bun_B)_Freddie_Gibbs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock Bottom Blues",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/10_Rock_Bottom_Blues_Kid_Rock.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "At Rock Bottom",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/11_At_Rock_Bottom_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Hear It For Rock Bottom",
+      "artist": "The Offspring",
+      "has_synced": false,
+      "path": "select/12_Let's_Hear_It_For_Rock_Bottom_The_Offspring.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Kiss",
+      "has_synced": false,
+      "path": "select/13_Rock_Bottom_Kiss.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/14_Rock_Bottom_Scooter.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Grandson",
+      "has_synced": true,
+      "path": "select/15_Rock_Bottom_Grandson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "grandson",
+      "has_synced": true,
+      "path": "select/16_Rock_Bottom_grandson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rock Bottom",
+      "artist": "Paul Otten",
+      "has_synced": false,
+      "path": "select/17_Rock_Bottom_Paul_Otten.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock Bottom",
+      "artist": "Hailee Steinfeld",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_Bottom_Hailee_Steinfeld.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Rock Bottom",
+      "artist": "Hailee Steinfeld",
+      "has_synced": true,
+      "path": "select/localdb_01_Rock_Bottom_Hailee_Steinfeld.lrc",
+      "repo_name": "liwCttfeJ7E"
+    }
+  ]
+}
